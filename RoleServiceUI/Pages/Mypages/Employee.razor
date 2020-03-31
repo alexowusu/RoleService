@@ -1,17 +1,22 @@
-@page "/Data/Employee"
+﻿@page "/Data/Employee"
 
 @using DataAccessLibrary
 @using DataAccessLibrary.Model
 
-@inject IEmployeeData this.db
+ @inject IEmployeeData db
+
+
+
 
 <h1>Employee Page</h1>
 <h4>Current Employee</h4>
-@code
-{
+
+@code {
     private List<EmployeeModel> employees;
-    
-    protected ovaride Task OnInitializedAsync(){
-       employees = await this.db.GetEmployee();
+
+    protected override async Task OnInitializedAsync()
+    {
+        employees = await this.db.GetEmployee;
     }
+
 }

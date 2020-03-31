@@ -1,0 +1,17 @@
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee_MarkupCompile.cache
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee_MarkupCompile.lref
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.g.resources
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Alex\Desktop\workhome\RoleService\EmployeeUI\Employee\obj\Debug\netcoreapp3.1\Employee.pdb

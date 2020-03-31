@@ -1,0 +1,13 @@
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RoleServiceUI.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RoleServiceUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RoleServiceUI.RazorComponent.input.cache
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyPages\Employee.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Alex\Desktop\workhome\RoleService\RoleServiceUI\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs

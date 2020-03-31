@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccessLibrary",
+    "\\DataAccessLibrary\\Model",
+    "\\RoleServiceUI",
+    "\\RoleServiceUI\\Pages",
+    "\\RoleServiceUI\\Pages\\MyPages"
+  ],
+  "SelectedNode": "\\RoleServiceUI\\Pages\\MyPages\\Employee.razor",
+  "PreviewInSolutionExplorer": false
+}
