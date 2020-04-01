@@ -1,4 +1,4 @@
-﻿@page "/Mypages/Employee"
+﻿@page "/Pages/MyPages/Employee"
 
 @using DataAccessLibrary
 @using DataAccessLibrary.Model
@@ -10,9 +10,40 @@
 
 <h1>Employee Page</h1>
 <h4>Current Employee</h4>
+@if (employees is null)
+{
+    <p><em>Loading....</em></p>
+}
+else
+{
+    <table class=" table table-striped">
+        <thead>
+            <tr>
+                <td>First Name</td>
+                <td>Last Name</td>
+                <td>Address</td>
+                <td>Email</td>
+                <td>Role</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employees)
+            {
+                <tr>
+                    <td>@employee.Firstname</td>
+                    <td>@employee.Lastname</td>
+                    <td>@employee.Address</td>
+                    <td>@employee.Email</td>
+                    <td>@employee.Role</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
 
 @code {
-    private List<EmployeeModel> employees;
+    private List<EmployeeModel>employees;
 
     protected override async Task OnInitializedAsync()
     {
