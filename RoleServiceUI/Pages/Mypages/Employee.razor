@@ -1,9 +1,9 @@
-﻿@page "/Data/Employee"
+﻿@page "/Mypages/Employee"
 
 @using DataAccessLibrary
 @using DataAccessLibrary.Model
 
- @inject IEmployeeData db
+ @inject DataAccessLibrary.IEmployeeData db
 
 
 
@@ -16,7 +16,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        employees = await this.db.GetEmployee;
+       var employees =  await this.db.GetEmployee();
     }
 
 }

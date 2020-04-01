@@ -31,7 +31,7 @@ namespace RoleServiceUI
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
             services.AddTransient<ISqlDataAccess, SqlDataAccess>();
-            //services.AddTransient<IEmployeeData, EmployeeData>();
+            services.AddTransient<EmployeeData, EmployeeData>();
 
 
         }
